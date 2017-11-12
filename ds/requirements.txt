@@ -54,3 +54,4 @@ urllib3==1.21.1
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.0.3
+xgboost==0.6a2
